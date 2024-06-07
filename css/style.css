@@ -1,0 +1,32 @@
+.bg-pro{
+    background-color: #1d3a4b;
+    
+}
+.row{
+    height: 100vh;
+}
+h1{
+    color: #315e78;
+    text-align: center;
+}
+
+section{
+    border-radius: 20px;
+    box-shadow: black 0px 0px 30px  ;
+}
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: underline;
+}
+.form-control{
+    color: white;
+}
+.form-control:focus{
+    background-color: #1d3a4b;
+    color: white;
+    border-color: #0DCAF0;
+    box-shadow: 0 0 0 0.25rem #0dcaf090;
+}
